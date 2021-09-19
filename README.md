@@ -15,6 +15,11 @@ There are three main features that prisma has
 
 # Prisma CLI
 
+To initialise prisma :
+```
+yarn prisma init or npx prisma init
+```
+
 To generate our prisma client :
 ``` 
 yarn prisma generate or npx prisma generate
@@ -34,3 +39,6 @@ To create tables based on an existing migration :
 ```
 yarn prisma migrate deploy
 ```
+
+# Additional Resources  
+https://www.prisma.io/
